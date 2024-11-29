@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21806
-Fork on GitHub
-6939
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Baratam Snehith</h1>
 <h3 align="center">A passionate frontend Backend Developer and Data Science</h3>
 
